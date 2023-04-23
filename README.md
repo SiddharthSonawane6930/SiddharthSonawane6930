@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SiddharthSonawane6930&label=Profile%20views&color=0e75b6&style=flat" alt="SiddharthSonawane6930" /> </p>
 
 <br>
-## 🛠️ My Skills
+<b>🛠️ My Skills</b>
 
 ### 👉 Programming languages
 <p>
