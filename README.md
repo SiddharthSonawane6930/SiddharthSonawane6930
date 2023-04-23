@@ -16,7 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddharthSonawane6930&label=Profile%20views&color=0e75b6&style=flat" alt="SiddharthSonawane6930" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddharthSonawane6930" alt="SiddharthSonawane6930" /></a> </p>&nbsp;
 
 ### 👉 Programming languages
 <p>
@@ -33,18 +32,20 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=Bootstrap&logoColor=61DAFB" />&nbsp;&nbsp;
   </p>
   
-### 👉 Backend Development
+<!-- ### 👉 Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB" />&nbsp;&nbsp;
   </p>
-
+ -->
+ 
+ 
 ### 👉 Software & Tools
 <p>
   <img src="https://img.shields.io/badge/Github-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=Postman&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=adobe%20photoshop&logoColor=61DAFB" />&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=adobe%20photoshop&logoColor=61DAFB" />&nbsp;&nbsp; -->
   </p>
   
  
