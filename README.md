@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `Competitive Programming`
+<!-- - 🤔 I’m looking for help with `Competitive Programming` -->
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
